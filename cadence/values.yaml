@@ -4,7 +4,7 @@ fullnameOverride: ""
 server:
   image:
     repository: ubercadence/server
-    tag: 0.7.1
+    tag: 0.9.5
     pullPolicy: IfNotPresent
 
   # Global default settings (can be overridden per service)
