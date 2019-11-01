@@ -1,0 +1,28 @@
+apiVersion: v1
+entries:
+  cadence:
+  - apiVersion: v1
+    appVersion: 0.9.5
+    created: "2019-11-01T11:42:34.881872-07:00"
+    description: Cadence is a distributed, scalable, durable, and highly available
+      orchestration engine to execute asynchronous long-running business logic in
+      a scalable and resilient way.
+    digest: d0f0d14a9ac467fd8a4b7afa479d140be635844d4bc1d830c75f989c1ce7c37e
+    engine: gotpl
+    home: https://cadenceworkflow.io/
+    icon: https://raw.githubusercontent.com/uber/cadence-web/master/client/assets/logo.svg
+    keywords:
+    - cadence
+    - workflow
+    maintainers:
+    - email: info@banzaicloud.com
+      name: Banzai Cloud
+    - email: architecture@veyo.com
+      name: Veyo Architecture
+    name: cadence
+    sources:
+    - https://github.com/uber/cadence
+    urls:
+    - cadence-0.4.3-veyo.tgz
+    version: 0.4.3-veyo
+generated: "2019-11-01T11:42:34.879223-07:00"
